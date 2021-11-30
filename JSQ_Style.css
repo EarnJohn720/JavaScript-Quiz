@@ -3,6 +3,9 @@
     margin: 0;
     width: 100vw;
     height: 100vh;
+    background: url("GreenHillZone.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .panel {
@@ -18,7 +21,7 @@
     padding: 5px;
     width: 80vw;
     height: 10vh;
-    background-color: #c7dddf;
+    /*background-color: #c7dddf;*/
     font-size: x-large;
     text-align: center;
 }
@@ -39,7 +42,7 @@
     padding: 5px;
     width: 80vw;
     height: 20vh;
-    background-color: #9eb1b3;
+    /*background-color: #9eb1b3;*/
 }
 
 .option {
@@ -51,9 +54,9 @@
     border-radius: 25%;
 }
 
-    .option:hover {
+    /*.option:hover {
         background-color: lightgoldenrodyellow;
-    }
+    }*/
 
 .navigation {
     width: 80vw;
@@ -62,7 +65,7 @@
     padding: 5px;
     display: flex;
     justify-content: space-around;
-    background-color: #c7dddf;
+    /*background-color: #c7dddf;*/
 }
 
 .evaluate, .next {
