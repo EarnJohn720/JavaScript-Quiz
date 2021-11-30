@@ -8,6 +8,11 @@
     background-size: cover;
 }
 
+h1 {
+    text-align: center;
+    font-size: 3.30em;
+}
+
 @font-face {
     font-family: Nise;
     src: url("NiseSegaSonic.TTF");

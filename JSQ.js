@@ -1,31 +1,31 @@
 // Questions will be asked
 const Questions = [{
 	id: 0,
-	q: "What is capital of India?",
-	a: [{ text: "gandhinagar", isCorrect: false },
-	{ text: "Surat", isCorrect: false },
-	{ text: "Delhi", isCorrect: true },
-	{ text: "mumbai", isCorrect: false }
+	q: "What's Tails' first name?",
+	a: [{ text: "Mick", isCorrect: false },
+	{ text: "Maurice", isCorrect: false },
+	{ text: "Miles", isCorrect: true },
+	{ text: "Mike", isCorrect: false }
 	]
 
 },
 {
 	id: 1,
-	q: "What is the capital of Thailand?",
-	a: [{ text: "Lampang", isCorrect: false, isSelected: false },
-	{ text: "phuket", isCorrect: false },
-	{ text: "Ayutthaya", isCorrect: false },
-	{ text: "Bangkok", isCorrect: true }
+	q: "What the first zone in Sonic Mania?",
+	a: [{ text: "Radio City", isCorrect: false, isSelected: false },
+	{ text: "Chemical Plant", isCorrect: false },
+	{ text: "Lava Reef", isCorrect: false },
+	{ text: "Green Hill", isCorrect: true }
 	]
 
 },
 {
 	id: 2,
-	q: "What is the capital of Gujarat",
-	a: [{ text: "surat", isCorrect: false },
-	{ text: "vadodara", isCorrect: false },
-	{ text: "gandhinagar", isCorrect: true },
-	{ text: "rajkot", isCorrect: false }
+	q: "How many Chaos Emeralds are there?",
+	a: [{ text: "8", isCorrect: false },
+	{ text: "6", isCorrect: false },
+	{ text: "7", isCorrect: true },
+	{ text: "5", isCorrect: false }
 	]
 
 }
