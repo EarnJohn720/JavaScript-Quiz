@@ -8,6 +8,15 @@
     background-size: cover;
 }
 
+@font-face {
+    font-family: Nise;
+    src: url("NiseSegaSonic.TTF");
+}
+
+* {
+    font-family: Nise;
+}
+
 .panel {
     height: 100vh;
     display: flex;
